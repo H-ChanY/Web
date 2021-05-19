@@ -1,0 +1,27 @@
+*{
+    font-family: 'Hi Melody', cursive;
+}
+h1{
+    top: 10px;
+    font-size: 60pt;
+    color: gray;
+    text-align: center;
+}
+
+
+.img{ 
+    position: relative;
+    left:30%;
+    top:50px;
+}
+
+.info{
+    font-style:oblique;
+    position: relative;
+    font-size: 17pt;
+    font-weight:bold;
+    width: 500px;
+    top:50px;
+    left:35%;
+    margin: 15px;
+}

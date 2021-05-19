@@ -24,7 +24,6 @@
 - \<input type="checkbox"\>: check box를 만드는 명령어.
 - \<asub\>: 아래 첨자로 태그 안의 문자열을 아래 첨자로 보냄.
 - \<asup\>: 위 첨자로 태그 안의 문자열을 위 첨자로 보냄.
-- \<li\>
 
 - \<input type="text"\>: 텍스트 박스 생성
 - \<input type="password"\>: 패스워드 박스 생성
@@ -36,8 +35,6 @@
 - \<input type="checkbox"\>: 여러개를 선택하게 만들 때는 checkbox 사용
 - \<input type="file"\>: 파일선택 박스 생성
 - \<textarea name="" id="" cols="30" rows="10"\>: 메모장 같은 텍스트 공간 생성
-
-- ctrl + /: 하면 주석 처리됨
 
 * header nav section article aside footer로 파일은 이루어져 있음 모두 있을 필요는 없음.
 * 블락 요소는 자기가 한 줄 다 차지함 

@@ -24,7 +24,7 @@
 - &lt;input type="checkbox"&gt;: check box를 만드는 명령어.
 - &lt;asub&gt;: 아래 첨자로 태그 안의 문자열을 아래 첨자로 보냄.
 - &lt;asup&gt;: 위 첨자로 태그 안의 문자열을 위 첨자로 보냄.
-- \<
+- \<li\>
 
 - &lt;input type="text"&gt;: 텍스트 박스 생성
 - &lt;input type="password"&gt;: 패스워드 박스 생성

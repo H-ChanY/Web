@@ -7,21 +7,40 @@ h1{
     color: gray;
     text-align: center;
 }
-
-
-.img{ 
-    position: relative;
-    left:30%;
-    top:50px;
+a:link{
+    color:gray;
+}
+#greet{
+    text-align: center;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    
+}
+.img{
+    margin-top: 50px;
+    margin-left: 200px;   
 }
 
+.label{
+    font-size: 20pt;
+    padding: 35px;
+    
+}
+
+.label_style{
+    border-right: 3pt solid gray;
+
+    }
+
+
 .info{
-    font-style:oblique;
-    position: relative;
-    font-size: 17pt;
-    font-weight:bold;
-    width: 500px;
-    top:50px;
-    left:35%;
-    margin: 15px;
+    font-size: 25pt;
+    margin-left: 400px;
+}
+
+.summary{   
+    padding-top: 300px;
+    padding-left: 730px;
 }

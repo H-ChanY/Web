@@ -1,0 +1,27 @@
+*{
+    font-family: 'Hi Melody', cursive;
+    color: gray;
+}
+h1{
+    top: 10px;
+    font-size: 60pt;
+    color: gray;
+    text-align: center;
+}
+
+.text_li{
+    padding-left: 580pt;
+    font-size: 18pt;
+    padding-top: 15pt;
+}
+
+.ch{
+    padding-top: 50pt;
+    padding-left: 600pt;
+    font-size: 25pt;
+}
+
+.summary{   
+    padding-top: 200px;
+    text-align: center;
+}
